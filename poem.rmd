@@ -2,7 +2,9 @@
 title: "git_00"
 author: "Caidynn Nowah Aguiar"
 date: "May 31, 2021"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -15,12 +17,63 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+Twas brillig, and the slithy toves  
+      Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+      And the mome raths outgrabe.  
+  
+“Beware the Jabberwock, my son!  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+Two roads diverged in a yellow wood,  
+And sorry I could not travel both  
+And be one traveler, long I stood  
+And looked down one as far as I could  
+To where it bent in the undergrowth;  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
+"The sun was shining on the sea,  
+      Shining with all his might:  
+He did his very best to make  
+      The billows smooth and bright —  
+And this was odd, because it was  
+      The middle of the night.  
+  
+The moon was shining sulkily,  
+      Because she thought the sun  
+Had got no business to be there  
+      After the day was done —  
+"It's very rude of him," she said,  
+      "To come and spoil the fun."  
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+When I consider how my light is spent,  
+
+Ere half my days, in this dark world and wide,  
+
+And that one Talent which is death to hide  
+
+Lodged with me useless, though my Soul more bent  
+
+To serve therewith my Maker, and present  
+
+My true account, lest he returning chide;  
+
+“Doth God exact day-labour, light denied?”  
+
+I fondly ask. But patience, to prevent  
+
+That murmur, soon replies, “God doth not need  
+
+Either man’s work or his own gifts; who best  
+
+Bear his mild yoke, they serve him best. His state  
+
+Is Kingly. Thousands at his bidding speed  
+
+And post o’er Land and Ocean without rest:  
+
+They also serve who only stand and wait.”  
